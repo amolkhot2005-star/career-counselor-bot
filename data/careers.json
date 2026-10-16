@@ -1,0 +1,154 @@
+{
+  "careers": [
+    {
+      "title": "Python Developer",
+      "description": "Builds software, automation scripts and backend services using Python.",
+      "skills": ["python", "object oriented programming", "git", "sql", "flask", "rest apis", "unit testing"],
+      "interests": ["programming", "coding", "scripting", "automation", "problem solving", "backend"],
+      "topics": ["python data structures", "virtual environments", "file handling", "debugging"],
+      "projects": ["Command line expense tracker", "REST API for a to-do list", "Web scraper that saves results to CSV"],
+      "roadmap": {
+        "fundamentals": ["Learn Python syntax, variables, loops and functions", "Practise problem solving with small daily exercises"],
+        "core_skills": ["Study object oriented programming, modules and packages", "Learn Git, SQL basics and how to build REST APIs"],
+        "projects": ["Build a command line tool and a small REST API", "Add unit tests to every project"],
+        "portfolio": ["Publish projects on GitHub with clear README files", "Write short notes explaining your design decisions"],
+        "interview": ["Practise Python coding questions and explain your projects aloud", "Revise OOP, data structures and debugging approaches"]
+      }
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Collects, cleans and analyses data to answer business questions and presents findings through reports and dashboards.",
+      "skills": ["excel", "sql", "python", "pandas", "statistics", "data visualization", "power bi"],
+      "interests": ["data", "data analysis", "analytics", "dashboards", "charts", "reports", "mathematics"],
+      "topics": ["data cleaning", "exploratory data analysis", "descriptive statistics", "business metrics"],
+      "projects": ["Sales dashboard from a public CSV", "Exploratory analysis of a student performance dataset", "SQL report on a sample database"],
+      "roadmap": {
+        "fundamentals": ["Learn spreadsheet formulas, pivot tables and basic statistics", "Understand data types, tables and simple SQL queries"],
+        "core_skills": ["Learn Python with Pandas for cleaning and analysing data", "Practise data visualization and build dashboards in a BI tool"],
+        "projects": ["Clean and analyse a real public dataset", "Build a dashboard that answers three business questions"],
+        "portfolio": ["Publish notebooks and dashboards with a short written insight summary", "Describe the question, method and finding for each project"],
+        "interview": ["Practise SQL query questions and statistics basics", "Prepare to walk through one analysis from raw data to insight"]
+      }
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Designs, trains, evaluates and deploys machine learning models for real applications.",
+      "skills": ["python", "numpy", "pandas", "scikit learn", "machine learning", "deep learning", "tensorflow", "pytorch", "model deployment"],
+      "interests": ["artificial intelligence", "machine learning", "deep learning", "neural networks", "predictive models", "computer vision", "natural language processing"],
+      "topics": ["linear algebra", "model evaluation", "feature engineering", "mlops basics"],
+      "projects": ["Spam message classifier", "Image classifier with a small neural network", "House price prediction with model evaluation"],
+      "roadmap": {
+        "fundamentals": ["Strengthen Python, NumPy and basic linear algebra and probability", "Learn how supervised and unsupervised learning differ"],
+        "core_skills": ["Practise scikit-learn models, feature engineering and evaluation metrics", "Learn deep learning with TensorFlow or PyTorch"],
+        "projects": ["Train and compare models on a public dataset", "Wrap a trained model in a simple web app or API"],
+        "portfolio": ["Document each project with data, method, metrics and limitations", "Publish code and results on GitHub"],
+        "interview": ["Revise bias, variance, overfitting and evaluation metrics", "Prepare to explain every step of one end-to-end project"]
+      }
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Uses statistics, programming and machine learning to extract insight and build predictive solutions from data.",
+      "skills": ["python", "statistics", "probability", "pandas", "sql", "data visualization", "machine learning"],
+      "interests": ["data science", "data", "mathematics", "predictive models", "research", "experiments", "hypothesis testing"],
+      "topics": ["exploratory data analysis", "feature engineering", "model evaluation", "storytelling with data"],
+      "projects": ["Customer churn prediction", "A/B test analysis on sample data", "Exploratory study of an open government dataset"],
+      "roadmap": {
+        "fundamentals": ["Learn Python, descriptive statistics and probability", "Practise SQL for extracting data"],
+        "core_skills": ["Learn Pandas, visualization and hypothesis testing", "Study machine learning models and how to evaluate them"],
+        "projects": ["Complete an end-to-end analysis with a predictive model", "Present results with clear charts and conclusions"],
+        "portfolio": ["Publish notebooks that tell a clear data story", "Write short case studies describing problem, approach and result"],
+        "interview": ["Practise statistics, probability and SQL questions", "Prepare to explain model choices and trade-offs"]
+      }
+    },
+    {
+      "title": "Web Developer",
+      "description": "Creates websites and web applications, covering both what users see and how the server behaves.",
+      "skills": ["html", "css", "javascript", "responsive design", "git", "react", "node js", "rest apis"],
+      "interests": ["web", "websites", "web development", "web design", "frontend", "backend", "web apps"],
+      "topics": ["browser developer tools", "accessibility basics", "http basics", "deployment basics"],
+      "projects": ["Personal portfolio website", "Weather app using a public API", "Task manager web app"],
+      "roadmap": {
+        "fundamentals": ["Learn HTML and CSS and build static pages", "Understand how browsers, servers and HTTP work"],
+        "core_skills": ["Learn JavaScript, responsive layouts and Git", "Pick a framework such as React and learn to call APIs"],
+        "projects": ["Build a multi-page responsive site", "Build an app that stores and displays data"],
+        "portfolio": ["Host your projects and link them from a portfolio page", "Keep code clean and documented on GitHub"],
+        "interview": ["Practise JavaScript and CSS layout questions", "Prepare to demo and explain one full web project"]
+      }
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "description": "Protects systems and networks by monitoring for threats, assessing vulnerabilities and responding to incidents.",
+      "skills": ["networking", "linux", "security fundamentals", "python", "cryptography", "vulnerability assessment", "siem tools"],
+      "interests": ["cybersecurity", "security", "ethical hacking", "network security", "privacy", "penetration testing", "digital forensics"],
+      "topics": ["owasp top ten", "incident response", "firewalls", "authentication basics"],
+      "projects": ["Password strength checker", "Home lab network scan report using safe, permitted targets", "Log analysis script that flags suspicious activity"],
+      "roadmap": {
+        "fundamentals": ["Learn networking basics and the Linux command line", "Understand the core ideas of confidentiality, integrity and availability"],
+        "core_skills": ["Study cryptography, common vulnerabilities and security tools", "Learn scripting with Python to automate checks"],
+        "projects": ["Practise only in legal labs and deliberately vulnerable practice environments", "Write a short report for each lab you finish"],
+        "portfolio": ["Publish write-ups of labs and defensive scripts", "Document what you learned and how you would fix each issue"],
+        "interview": ["Revise networking, common attacks and defensive controls", "Prepare to explain one incident-response scenario step by step"]
+      }
+    },
+    {
+      "title": "Cloud Engineer",
+      "description": "Designs, deploys and maintains applications and infrastructure on cloud platforms.",
+      "skills": ["linux", "networking", "aws", "azure", "docker", "kubernetes", "terraform", "ci cd"],
+      "interests": ["cloud computing", "cloud", "devops", "infrastructure", "servers", "deployment", "automation"],
+      "topics": ["virtual machines", "cloud storage", "load balancing", "monitoring"],
+      "projects": ["Deploy a static website on a cloud storage service", "Containerise a small app with Docker", "Automate a deployment with a simple CI CD pipeline"],
+      "roadmap": {
+        "fundamentals": ["Learn Linux, networking and how servers work", "Understand what cloud computing and virtualization are"],
+        "core_skills": ["Learn one major cloud platform and its core services", "Learn Docker and infrastructure as code basics"],
+        "projects": ["Deploy an app to the cloud using free tier or student credits", "Set up an automated build and deploy pipeline"],
+        "portfolio": ["Document architecture diagrams and deployment steps", "Publish your configuration files on GitHub"],
+        "interview": ["Revise cloud service models, networking and security basics", "Prepare to explain how you deployed and monitored an application"]
+      }
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Designs, builds, tests and maintains software systems with a strong focus on algorithms and good engineering practice.",
+      "skills": ["data structures", "algorithms", "object oriented programming", "git", "sql", "java", "testing", "system design"],
+      "interests": ["programming", "coding", "software development", "building software", "problem solving", "applications"],
+      "topics": ["time complexity", "design patterns", "code review", "version control workflows"],
+      "projects": ["Library management system", "Chat application with a simple backend", "Command line text editor"],
+      "roadmap": {
+        "fundamentals": ["Learn a main language well and practise basic problem solving", "Understand data structures and how code runs"],
+        "core_skills": ["Study algorithms, object oriented design and databases", "Learn Git workflows, testing and debugging"],
+        "projects": ["Build a multi-feature application with tests", "Contribute a small fix to an open-source project"],
+        "portfolio": ["Keep clean repositories with documentation", "Explain architecture choices in your README files"],
+        "interview": ["Practise data structure and algorithm problems regularly", "Revise object oriented design and basic system design"]
+      }
+    },
+    {
+      "title": "UI/UX Designer",
+      "description": "Designs usable, attractive interfaces by understanding users, sketching flows and building prototypes.",
+      "skills": ["figma", "wireframing", "prototyping", "user research", "visual design", "typography", "usability testing"],
+      "interests": ["design", "user experience", "user interface", "creativity", "visual design", "ui", "ux"],
+      "topics": ["design principles", "color theory", "accessibility", "design systems"],
+      "projects": ["Redesign a mobile app screen flow", "Wireframes and prototype for a student portal", "Usability test of a small website with five users"],
+      "roadmap": {
+        "fundamentals": ["Learn design principles, color and typography", "Understand the difference between user experience and user interface"],
+        "core_skills": ["Learn Figma, wireframing and prototyping", "Practise user research and usability testing"],
+        "projects": ["Redesign an existing app and explain your reasoning", "Run a small usability test and record findings"],
+        "portfolio": ["Present two or three case studies showing problem, process and result", "Publish them on a simple portfolio site"],
+        "interview": ["Prepare to present a case study clearly", "Practise explaining design decisions and handling feedback"]
+      }
+    },
+    {
+      "title": "Business Analyst",
+      "description": "Connects business needs with technical teams by gathering requirements, analysing processes and documenting solutions.",
+      "skills": ["requirements gathering", "excel", "sql", "data visualization", "documentation", "process modeling", "stakeholder communication"],
+      "interests": ["business", "business analysis", "requirements", "process improvement", "communication", "stakeholders", "analytics"],
+      "topics": ["user stories", "swot analysis", "workflow diagrams", "agile basics"],
+      "projects": ["Requirements document for a college app", "Process flow diagram for an admission workflow", "Dashboard of business metrics from sample data"],
+      "roadmap": {
+        "fundamentals": ["Learn basic business concepts and how projects are organised", "Practise clear writing and structured communication"],
+        "core_skills": ["Learn requirements gathering, user stories and process modeling", "Build Excel and SQL skills for analysing data"],
+        "projects": ["Write requirements for a small system and review them with a peer", "Create process diagrams and a metrics dashboard"],
+        "portfolio": ["Collect your documents and diagrams as sample deliverables", "Explain the problem and outcome for each"],
+        "interview": ["Practise case-style questions and requirement-clarifying questions", "Prepare examples of communicating with different stakeholders"]
+      }
+    }
+  ]
+}
